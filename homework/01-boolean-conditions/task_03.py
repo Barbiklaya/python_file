@@ -50,3 +50,13 @@
 #     Можно на аттракцион: False
 
 # Решение
+# height = 130
+# age = 12
+# soprovozhdenie = "нет"
+
+# can = height >= 120 and (age >= 10 or soprovozhdenie == "да")
+
+# print("Рост, см:", height)
+# print("Возраст:", age)
+# print("Со взрослым (да/нет):", soprovozhdenie)
+# print("Можно на аттракцион:", can)

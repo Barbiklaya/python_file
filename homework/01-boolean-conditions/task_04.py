@@ -44,3 +44,15 @@
 #     Позвонить покупателю: False
 
 # Решение
+# oplachen = "да"
+# tovar = "да"
+# adres = "да"
+
+# otpravka = oplachen == "да" and tovar == "да" and adres == "да"
+# zvonok = oplachen == "да" and adres == "нет"
+
+# print("Заказ оплачен (да/нет):", oplachen)
+# print("Товар есть (да/нет):", tovar)
+# print("Адрес указан (да/нет):", adres)
+# print("Можно отправлять:", otpravka)
+# print("Позвонить покупателю:", zvonok)

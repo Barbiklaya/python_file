@@ -30,3 +30,13 @@
 #     Полный билет: False
 
 # Решение
+# age = 12
+
+# lgot = age < 18
+# lgot = lgot or age >= 65
+
+# print("Возраст:", age)
+# print("Льготный билет:", lgot)
+# print("Полный билет:", not lgot)
+
+

@@ -49,3 +49,17 @@
 #     False
 
 # Решение
+# kassa1 = "нет"
+# kassa2 = "да"
+# kassa3 = "нет"
+
+# open1 = kassa1 == "да"
+# open2 = kassa2 == "да"
+# open3 = kassa3 == "да"
+
+# only_one = (open1 and not open2 and not open3) or (not open1 and open2 and not open3) or (not open1 and not open2 and open3)
+
+# print("Касса 1 открыта (да/нет):", kassa1)
+# print("Касса 2 открыта (да/нет):", kassa2)
+# print("Касса 3 открыта (да/нет):", kassa3)
+# print(only_one)

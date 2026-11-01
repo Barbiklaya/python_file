@@ -31,3 +31,19 @@
 #     Сессия закрыта: False
 
 # Решение
+# first = 55
+# second = 40
+# third = 90
+
+# exam1 = first >= 50
+# exam2 = second >= 50
+# exam3 = third >= 50
+
+# count = exam1 + exam2 + exam3
+# sdano = exam1 and exam2 and exam3
+
+# print("Балл за первый экзамен:", first)
+# print("Балл за второй экзамен:", second)
+# print("Балл за третий экзамен:", third)
+# print("Сдано экзаменов:", count)
+# print("Сессия закрыта:", sdano)

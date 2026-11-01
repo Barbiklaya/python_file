@@ -39,3 +39,12 @@
 #     False
 
 # Решение
+# ostatok = 5
+# price = 1200
+# money = 1500
+
+# print("Остаток на складе, шт.:", ostatok)
+# print("Цена товара, руб.:", price)
+# print("Деньги у покупателя, руб.:", money)
+
+# print(ostatok > 0 and money >= price)

@@ -49,3 +49,19 @@
 #     Допущен: False
 
 # Решение
+# attendance = 80
+# labs = 8
+# dolg = 0
+
+# attendance_ok = attendance >= 75
+# labs_ok = labs >= 8
+# dolg_ok = dolg == 0
+# exam_ok = attendance_ok and labs_ok and dolg_ok
+
+# print("Посещаемость, %:", attendance)
+# print("Сдано лабораторных:", labs)
+# print("Долг по оплате, руб.:", dolg)
+# print("Посещаемость:", attendance_ok)
+# print("Лабораторные:", labs_ok)
+# print("Нет долга:", dolg_ok)
+# print("Допущен:", exam_ok)

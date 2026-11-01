@@ -41,3 +41,11 @@
 #     True
 
 # Решение
+# price1 = 1500
+# price2 = 300
+
+# kupon = (price1 > 1000 and price2 <= 1000) or (price2 > 1000 and price1 <= 1000)
+
+# print("Цена первого товара, руб.:", price1)
+# print("Цена второго товара, руб.:", price2)
+# print(kupon)

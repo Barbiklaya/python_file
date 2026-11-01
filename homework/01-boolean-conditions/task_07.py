@@ -28,3 +28,9 @@
 #     False
 
 # Решение
+# bottles = 48
+
+# otpravka = bottles % 6 == 0 and bottles % 4 == 0
+
+# print("Количество бутылок:", bottles)
+# print(otpravka)
