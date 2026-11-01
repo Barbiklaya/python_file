@@ -51,3 +51,23 @@
 #     Штраф: 5000 руб.
 
 # Решение
+# allowed_speed = 60
+# actual_speed = 75
+
+# print("Разрешённая скорость, км/ч:", allowed_speed)
+# print("Фактическая скорость, км/ч:", actual_speed)
+
+# speed_difference = actual_speed - allowed_speed
+
+# if speed_difference <= 20:
+    # fine = 0
+# elif speed_difference <= 40:
+    # fine = 750
+# elif speed_difference <= 60:
+    # fine = 1500
+# elif speed_difference <= 80:
+    # fine = 2500
+# else:
+    # fine = 5000
+
+# print("Штраф:", fine, "руб.")

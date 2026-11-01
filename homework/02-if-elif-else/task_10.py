@@ -43,3 +43,14 @@ if length >= 12:
     print("Надёжный пароль")
 else:
     print("Слабый пароль")
+
+# password = "correct_horse_7"
+
+# print("Пароль:", password)
+
+# if len(password) >= 12:
+    # print("Надёжный пароль")
+# elif len(password) >= 8:
+   # print("Средний пароль")
+# else:
+   #  print("Слабый пароль")

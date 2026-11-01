@@ -47,3 +47,18 @@
 #     Отпуск согласован
 
 # Решение
+# months = 4
+# days = 5
+
+# print("Отработано месяцев:", months)
+# print("Дней отпуска:", days)
+
+# if months < 6:
+    # print("Отпуск пока недоступен")
+# else:
+    # free_days = months * 28 // 12
+    # print("Доступно дней:", free_days)
+    # if days <= free_days:
+        # print("Отпуск согласован")
+    # else:
+        # print("Не хватает дней:", days - free_days)

@@ -34,3 +34,15 @@
 #     Батарея заряжена
 
 # Решение
+# battery = 15
+
+# print("Заряд, %:", battery)
+
+# if battery <= 15:
+    # print("Критический заряд")
+# elif battery <= 50:
+    # print("Низкий заряд")
+# elif battery <= 99:
+    # print("Нормальный заряд")
+# else:
+    # print("Батарея заряжена")

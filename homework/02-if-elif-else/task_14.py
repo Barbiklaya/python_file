@@ -60,3 +60,25 @@
 #     Ошибка ввода
 
 # Решение
+# time = "да"
+# balls = 10
+
+# print("Сдана в срок (да/нет):", time)
+# print("Баллы:", balls)
+
+# if balls < 0 or balls > 10:
+    # print("Ошибка ввода")
+# elif time == "да":
+    # if balls >= 9:
+        # print("Оценка: 5")
+    # elif balls >= 7:
+        # print("Оценка: 4")
+    # elif balls >= 5:
+        # print("Оценка: 3")
+    # else:
+        # print("Работа не зачтена")
+# else:
+   # if balls >= 5:
+        # print("Оценка: 3")
+    # else:
+        # print("Работа не зачтена")

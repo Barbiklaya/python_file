@@ -43,3 +43,19 @@
 #     Кешбэк: 0.00 руб.
 
 # Решение
+# category = "азс"
+# price = 1500
+
+# print("Категория:", category)
+# print("Сумма покупки, руб.:", price)
+
+# if category == "азс":
+    # cashback = price * 5 / 100
+# elif category == "аптека":
+    # cashback = price * 3 / 100
+# elif category == "супермаркет":
+    # cashback = price * 1 / 100
+# else:
+    # cashback = 0
+
+# print(f"Кешбэк: {cashback:.2f} руб.")
