@@ -54,3 +54,7 @@
 #     -2 x 10 = -20
 
 # Решение
+# n = 7
+# for number in range(1, 11):
+    # print(n, "*", number, "=", n * number)
+    

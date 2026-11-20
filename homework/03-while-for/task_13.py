@@ -33,3 +33,11 @@
 #     10! = 3628800
 
 # Решение
+# n = 5
+# factorial = 1
+
+# for number in range(1, n + 1):
+    # factorial *= number
+
+# print("Число n:", n)
+# print(n, "! =", factorial)

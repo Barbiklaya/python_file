@@ -35,3 +35,11 @@
 #     Итого: 999 руб.
 
 # Решение
+# n = 3
+# total = 0
+# costs = 450, 1200, 80
+
+# for price in costs:
+    # total += price
+
+# print("Итого:", total, "руб.")

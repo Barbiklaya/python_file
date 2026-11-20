@@ -27,3 +27,14 @@
 #     Сумма цифр: 3
 
 # Решение
+# n = 4075
+# print("Номер заказа:", n)
+
+# total = 0
+
+# while n != 0:
+    # last_number = n % 10
+    # total += last_number
+    # n //= 10
+
+# print("Сумма цифр:", total)

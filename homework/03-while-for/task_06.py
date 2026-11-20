@@ -46,3 +46,22 @@
 #     Средний балл: 4.50
 
 # Решение
+# grades = [5, 4, 4, 0]
+# total = 0
+# count = 0
+# i = 0
+
+# while grades[i] != 0:
+    # print("Оценка (0 — конец):", grades[i])
+    # total += grades[i]
+    # count += 1
+    # i += 1
+
+# print("Оценка (0 — конец):", grades[i])
+
+# if count > 0:
+    # sredni_bal = total / count
+    # print(f"Средний балл: {sredni_bal:.2f}")
+# else:
+    # print("Оценок нет")
+    

@@ -28,3 +28,9 @@
 #     Слов: 0
 
 # Решение
+# text = "рейс задержан на час"
+
+# count = text.count(" ") + (text != "")
+
+# print("Фраза:", text)
+# print("Слов:", count)

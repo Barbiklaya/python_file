@@ -48,3 +48,20 @@
 #     Попытки закончились
 
 # Решение
+# number = 37
+# try_number = 1
+
+# while try_number <= 5:
+    # answer = int(input("Ваша догадка: "))
+
+    # if answer == number:
+        # print(f"Угадано с попытки {try_number}")
+        # break
+    # elif answer < number:
+        # print("Больше")
+    # else:
+        # print("Меньше")
+
+    # try_number += 1
+# else:
+    # print("Попытки закончились")

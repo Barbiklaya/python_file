@@ -27,3 +27,12 @@
 #     Дороже порога: 6
 
 # Решение
+# price_list = [120, 80, 450, 45, 990, 300]
+# limit = 200
+# count = 0
+# print("Порог цены, руб.:", limit)
+# for price in price_list:
+    # if price > limit:
+        # count += 1
+
+# print("Дороже порога:", count)
